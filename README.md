@@ -8,7 +8,6 @@ I'm currently enrolled in the KKCF Program, where I'm just beginning my journey 
 
 <p align="center">
   <img width="200" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Learning GIF" />
-  <img width="200" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Design GIF" />
   <img width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Vibes GIF" />
 </p>
 
@@ -25,8 +24,8 @@ I'm currently enrolled in the KKCF Program, where I'm just beginning my journey 
 
 - Replit: [@soopwan17](https://replit.com/@soopwan17)  
 - Figma: [@Supan](https://figma.com/@Supan)  
-- GitHub: [github.com/soopwan](https://github.com/soopwan)  
-- LinkedIn: [linkedin.com/in/soopwan](https://linkedin.com/in/soopwan)
+- GitHub: [@soopwan)  
+
 
 ---
 
